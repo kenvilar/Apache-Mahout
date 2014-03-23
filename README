@@ -1,0 +1,3 @@
+To run:
+1.) mvn clean install
+2.) mvn exec:java -Dexec.mainClass="programs.KMeansCluster" -Dexec.args="src/main/java/programs/CombinedLogs.csv Vector.csv"
