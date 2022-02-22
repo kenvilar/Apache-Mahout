@@ -15,7 +15,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <mahout.version>0.5</mahout.version>
+    <mahout.version>0.10.0</mahout.version>
     <mahout.groupid>org.apache.mahout</mahout.groupid>
   </properties>
   
