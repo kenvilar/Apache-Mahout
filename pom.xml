@@ -15,7 +15,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <mahout.version>0.5</mahout.version>
+    <mahout.version>0.10.0</mahout.version>
     <mahout.groupid>org.apache.mahout</mahout.groupid>
   </properties>
   
@@ -123,7 +123,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>r03</version>
+      <version>30.0-android</version>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
@@ -143,7 +143,7 @@
     <dependency>
     	<groupId>commons-io</groupId>
     	<artifactId>commons-io</artifactId>
-    	<version>2.0.1</version>
+    	<version>2.7</version>
     	<type>jar</type>
     	<scope>compile</scope>
     </dependency>
